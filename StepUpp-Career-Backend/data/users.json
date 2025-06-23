@@ -1,0 +1,16 @@
+[
+  {
+    "id": "3d36bc76-162a-4e80-b3b5-015268a32b09",
+    "email": "ns_hadji@esi.dz",
+    "password": "$2a$10$Rq196ONo2bpBO2y5Fyop2.iDFWnOiGoPxa3o.JW6Oeox40qoRv/Si",
+    "userType": "individual",
+    "firstName": "sidali",
+    "lastName": "hadji",
+    "phone": "0552781902",
+    "createdAt": "2025-06-23T16:03:35.377Z",
+    "experience": "wfwr",
+    "skills": "qwrwqr",
+    "emailConfirmed": true,
+    "confirmedAt": "2025-06-23T16:03:55.197Z"
+  }
+]
